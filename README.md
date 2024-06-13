@@ -1,4 +1,4 @@
-# Go App
+# Go App - kittens to be added!
 This is a simple Todo App copied from [here](https://github.com/NeuraLegion/go-todoapp-demo)
 It is built with Go and the [chi router](https://github.com/go-chi/chi). The app uses [Vue](https://vuejs.org/) to render the HTML.
 
